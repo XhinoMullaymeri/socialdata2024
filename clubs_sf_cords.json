@@ -1,0 +1,98 @@
+{
+    "places": [
+      
+        {
+            "name": "Monarch",
+            "district": "",
+            "coords":  [37.781492779182756, -122.40838750655521]
+        },
+        {
+            "name": "Club Six",
+            "district": "",
+            "coords":  [37.78201738308511, -122.40963693974058]
+        },
+        {
+            "name": "Lush Lounge",
+            "district": "",
+            "coords":  [37.78901492283157, -122.42038326131238]
+        },
+        {
+            "name": "Cat Club",
+            "district": "",
+            "coords":  [37.7759854334783, -122.4096563219077]
+        },
+        {
+            "name": "Club Malibu",
+            "district": "",
+            "coords":  [37.743206419535795, -122.4219072927494]
+        },
+      {
+          "name": "Audio Nightclub",
+          "district": "",
+          "coords":  [37.77212260306201, -122.41357622737183]
+      },
+
+    {
+        "name": "Oasis",
+        "district": "",
+        "coords":  [37.77203046243782, -122.41438331649903]
+    },
+    {
+      "name": "Double Dutch",
+      "district": "",
+      "coords":  [37.76513715815443, -122.42373387309375]
+    },
+    {
+      "name": "Origin Bar",
+      "district": "",
+      "coords":  [37.784062136803286, -122.43258508951348]
+    },
+    {
+      "name": "Madrone Art Bar",
+      "district": "",
+      "coords":  [37.774311317036485, -122.43738533184231]
+    },
+    {
+      "name": "Harlot",
+      "district": "",
+      "coords":  [37.78875590424755, -122.39821836067752]
+    },
+    {
+      "name": "Public Works",
+      "district": "",
+      "coords":  [37.76904260590212, -122.41939784533503]
+    },
+    {
+      "name": "Monroe",
+      "district": "",
+      "coords":  [37.798142930970535, -122.40494009033308]
+    },
+    {
+      "name": "DNA Lounge",
+      "district": "",
+      "coords":  [37.77130492905189, -122.41280478951391]
+    },
+    {
+      "name": "Halcyon",
+      "district": "",
+      "coords":  [37.77249067299869, -122.41387900610414]
+    },
+    {
+      "name": "The Great Northern",
+      "district": "",
+      "coords":  [37.767613551719286, -122.40652706067829]
+    },
+
+    {
+      "name": "The EndUp Club",
+      "district": "",
+      "coords":  [37.7774730925833, -122.40372354533464]
+    },
+    {
+      "name": "Temple SF",
+      "district": "",
+      "coords":  [37.78807399650791, -122.39720974533412]
+    }
+
+    ]
+}

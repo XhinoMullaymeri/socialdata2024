@@ -1,0 +1,240 @@
+{
+    "places": [
+      {
+        "name": "Anchor Brewing's taproom",
+        "district": "Potrero Hill",
+        "coords": [37.764077838093165, -122.40107785300681]
+      },
+      {
+        "name": "Aub Zam Zam",
+        "district": "Haight-Ashbury",
+        "coords":  [37.76974197130266, -122.44932061649912]
+      },
+      {
+        "name": "Black Horse London Pub",
+        "district": "Cow Hollow",
+        "coords":  [37.7987953565034, -122.42450396067726]
+      },
+      {
+        "name": "Bourbon & Branch",
+        "district": "The Tenderloin",
+        "coords":  [37.78863522251724, -122.41330402282969]
+      },
+      {
+        "name": "Bow Bow Cocktail Lounge",
+        "district": "Chinatown",
+        "coords":  [37.79762381545023, -122.40709523184142]
+      },
+      {
+        "name": "Buddha Lounge",
+        "district": "Chinatown",
+        "coords":  [37.795426709416255, -122.40658867416981]
+      },
+      {
+        "name": "Buena Vista Cafe",
+        "district": "Fisherman's Wharf",
+        "coords":  [37.806694828866085, -122.42073996067698]
+      },
+      {
+        "name": "CC's Cocktails",
+        "district": "Cow Hollow",
+        "coords":  [37.799152402425634, -122.44127954533397]
+      },
+      {
+        "name": "Clooney's",
+        "district": "The Mission",
+        "coords":  [37.75117571314482, -122.42034790797975]
+      },
+      {
+        "name": "Comstock Saloon",
+        "district": "Chinatown",
+        "coords":  [37.79715112590925, -122.40561720070282]
+      },
+      {
+        "name": "The Connecticut Yankee",
+        "district": "Potrero Hill",
+        "coords":  [37.765080193728636, -122.3981021895142]
+      },
+      {
+        "name": "Final Final",
+        "district": "The Marina",
+        "coords":  [37.798729079067144, -122.44585538951301]
+      },
+      {
+        "name": "The Hideout at Dalva",
+        "district": "The Mission",
+        "coords":  [37.766569391176894, -122.42266586595568]
+      },
+      {
+        "name": "House of Prime Rib",
+        "district": "Nob Hill",
+        "coords":  [37.79359395743731, -122.4227641895132]
+      },
+      {
+        "name": "House of Shields",
+        "district": "FiDi",
+        "coords":  [37.7883856324139, -122.40130681834914]
+      },
+      {
+        "name": "The Interval",
+        "district": "Fort Mason",
+        "coords":  [37.80673869870946, -122.43225253369192]
+      },
+      {
+        "name": "Li Po Cocktail Lounge",
+        "district": "Chinatown",
+        "coords":  [37.79558955915681, -122.4065013345127]
+      },
+      {
+        "name": "The Kezar Pub",
+        "district": "Cole Valley",
+        "coords":  [37.76953157222733, -122.45311158655272]
+      },
+      {
+        "name": "Kozy Kar",
+        "district": "Nob Hill",
+        "coords":  [37.79145669146144, -122.42049246861767]
+      },
+      {
+        "name": "Marianne's",
+        "district": "SOMA",
+        "coords":  [37.7835671412606, -122.40688038951359]
+      },
+      {
+        "name": "Mikkeller Bar",
+        "district": "The Tenderloin",
+        "coords":  [37.79150756198696, -122.42077141834916]
+      },
+      {
+        "name": "The Monk's Kettle",
+        "district": "The Mission",
+        "coords":  [37.76529759696217, -122.42302817677681]
+      },
+      {
+        "name": "Mr. Bing's",
+        "district": "Chinatown",
+        "coords":  [37.79730873820283, -122.40581238766237]
+      },
+      {
+        "name": "Northstar Cafe",
+        "district": "North Beach",
+        "coords":  [37.79933237971011, -122.41042658951294]
+      },
+      {
+        "name": "The Page",
+        "district": "Lower Haight",
+        "coords":  [37.77231502638701, -122.43707978951404]
+      },
+      {
+        "name": "The Pied Piper",
+        "district": "SOMA",
+        "coords":  [37.78857060549816, -122.4022651345146]
+      },
+      {
+        "name": "Pop's",
+        "district": "The Mission",
+        "coords":  [37.760943282924494, -122.4169682026982]
+      },
+      {
+        "name": "Red's Java House",
+        "district": "The Embarcadero",
+        "coords":  [37.78735061322547, -122.3874201030061]
+      },
+      {
+        "name": "The Riptide",
+        "district": "Parkside",
+        "coords":  [37.741759066822695, -122.50529537500383]
+      },
+      {
+        "name": "Smuggler's Cove",
+        "district": "Fillmore",
+        "coords":  [37.77955540823698, -122.42344730485702]
+      },
+      {
+        "name": "Specs' Twelve Adler Museum Cafe",
+        "district": "Chinatown",
+        "coords":  [37.79776395976354, -122.4060356318415]
+      },
+      {
+        "name": "Suppenküche",
+        "district": "Hayes Valley",
+        "coords":  [37.776406653587195, -122.42637588766301]
+      },
+      {
+        "name": "Tommy's Mexican Restaurant",
+        "district": "Outer Richmond",
+        "coords":  [37.78016822214052, -122.48315058951374]
+      },
+      {
+        "name": "The Tonga Room",
+        "district": "Nob Hill",
+        "coords":  [37.792615400920674, -122.4101904038269]
+      },
+      {
+        "name": "Top of the Mark",
+        "district": "Nob Hill",
+        "coords":  [37.79190141084179, -122.41018507499113]
+      },
+      {
+        "name": "Toronado",
+        "district":"Lower Haight",
+        "coords":  [37.791969309688135, -122.41024943184158]
+    },
+    {
+        "name": "Trick Dog",
+        "district": "North Beach",
+        "coords":  [37.759343121476746, -122.41119270300692]
+      },
+      {
+        "name": "Twin Peaks Tavern",
+        "district": "Outer Richmond",
+        "coords":  [37.76255066203164, -122.43497650383445]
+      },
+      {
+        "name": "The View Lounge",
+        "district": "The Castro",
+        "coords":  [37.78540493356769, -122.40447077417019]
+      },
+      {
+        "name": "Wingtip",
+        "district": "FiDi",
+        "coords":  [37.79468192085277, -122.40293530300568]
+      },
+      {
+        "name": "Zeitgeist",
+        "district": "SOMA",
+        "coords":  [37.77085609889842, -122.42185689152092]
+      },
+    {
+        "name": "Shotwell's Saloon",
+        "district": "",
+        "coords":  [37.76038410695423, -122.4155207541424]
+    },
+        {
+            "name": "Latin American Club",
+            "district": "",
+            "coords":  [37.75604424221007, -122.42075111435777]
+        },
+        {
+            "name": "Make-Out Room",
+            "district": "",
+            "coords":  [37.75578053715044, -122.41925018702453]
+        },
+        {
+            "name": "The Valencia Room",
+            "district": "",
+            "coords":  [37.76328058647193, -122.4218653753732]
+        },
+        {
+            "name": "The 500 Club",
+            "district": "",
+            "coords":  [37.764207996936705, -122.42443160033721]
+        },
+        {
+            "name": "Skylark",
+            "district": "North Beach",
+            "coords":  [37.76577297572656, -122.42179205465992]
+        }
+
+    ]
+}
